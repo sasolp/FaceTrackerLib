@@ -1,0 +1,18 @@
+LIBRARY "FaceTracker"
+EXPORTS
+Initialize
+CreateCapture
+SetCapProperty
+ResetAll
+SetFaceTrackerRoi
+ResetFaceTrackerRoi
+GetFeatureSize
+GetCapProperty
+GetNextFrame
+ReleaseFaces
+ReleaseBuffer
+ReleaseCaptureCam
+GetJpegFromRawData
+GetUSBCamCount
+SetParams
+GetTimeInLongFormat
